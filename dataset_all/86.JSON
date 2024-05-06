@@ -1,0 +1,55 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "New York Cheesecake",
+        "cnt": "1",
+        "price": "3,49"
+       
+      },
+
+
+       {
+        "nm": "Lava Cake",
+        "cnt": "1",
+        "price": "2,99"
+      
+       
+      },
+
+
+       {
+        "nm": "1L Sprite",
+        "cnt": "1",
+        "price": "3,29"
+      
+       
+      }
+    
+    ],
+
+    "sub_total": {
+      "subtotal_price": "9,02"
+      
+    },
+
+    "total": {
+      "total_price": "10,02"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 86,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

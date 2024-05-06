@@ -1,0 +1,59 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Boston",
+        "cnt": "1",
+        "price": "14,68",
+        "etc": "32"
+
+
+      },
+       {
+        "nm": "Pan Boston",
+        "cnt": "1",
+        "price": "0,00",
+         "etc": "28"
+
+
+      },
+       {
+        "nm": "Pizza-Br Salami",
+        "cnt": "1",
+        "price": "4,99"
+       
+
+      },
+       {
+        "nm": "Knoblauch Dip",
+        "cnt": "1",
+        "price": "1,29"
+       
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "19,59"
+      
+    },
+    "total": {
+      "total_price": "20,96",
+       "cashprice": "20,96"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 72,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

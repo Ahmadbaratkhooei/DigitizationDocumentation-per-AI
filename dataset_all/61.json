@@ -1,0 +1,50 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Salami",
+        "cnt": "1",
+        "price": "9,99",
+		"etc": "28"
+      },
+	  
+	  {
+        "nm": "Sprite",
+        "cnt": "1",
+        "price": "2,29",
+		"etc": "500ml"
+      },
+	  
+	  {
+        "nm": "Aioli Dip",
+        "cnt": "1",
+        "price": "1,29"
+	
+      }
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "12,68"
+      
+    },
+    "total": {
+      "total_price": "13,82",
+	  "creditcardprice": "13,82"
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 61,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

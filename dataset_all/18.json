@@ -1,0 +1,62 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Sucuk Hollandaise",
+        "cnt": "1",
+        "price": "10,14",
+		"etc":"32"
+		
+        
+
+      },
+	  {
+        "nm": "Pan Lunch Champ Zwiebeln",
+        "cnt": "1",
+        "price": "8,49",
+		"etc":"28"
+		
+        
+
+      },
+	  {
+        "nm": "Chicken Wings",
+        "cnt": "1",
+        "price": "5,99"
+		
+		
+        
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "13,53"
+      
+    },
+    "total": {
+      "total_price": "14,48",
+	  "creditcardprice": "14,48"
+	  
+	  
+	  
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 18,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

@@ -1,0 +1,35 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Waikiki",
+        "cnt": "1",
+        "price": "13,88",
+		"etc" : "28"
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "12,97"
+      
+    },
+    "total": {
+      "total_price": "13,88",
+	  "creditcardprice": "13,88"
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 37,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

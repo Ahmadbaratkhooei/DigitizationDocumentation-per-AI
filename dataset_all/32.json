@@ -1,0 +1,94 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Penne Pasta Orlando",
+        "cnt": "1",
+        "price": "9,99"
+		
+		
+		
+		
+		
+		
+		
+        
+
+      },
+	  {
+        "nm": "Penne Pasta Chicko",
+        "cnt": "1",
+        "price": "10,99"
+		
+		
+		
+		
+		
+		
+		
+        
+
+      },
+	  {
+        "nm": "Penne Pasta Curryo",
+        "cnt": "1",
+        "price": "10,99"
+		
+		
+		
+		
+		
+		
+		
+        
+
+      },
+	  {
+        "nm": "Cheese Bites",
+        "cnt": "1",
+        "price": "4,99"
+		
+		
+		
+		
+		
+		
+		
+        
+
+      }
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "14,93"
+      
+    },
+    "total": {
+      "total_price": "15,98",
+	  "creditcardprice": "15,98"
+	
+	 
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 32,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

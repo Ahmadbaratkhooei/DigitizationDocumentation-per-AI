@@ -1,0 +1,58 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Conchita",
+        "cnt": "1",
+        "price": "14,49",
+		"etc": "28"
+      },
+	  
+	  {
+        "nm": "Pan Crazy Dog",
+        "cnt": "1",
+        "price": "12,49",
+		"etc": "28"
+      },
+	  
+	  {
+        "nm": "Pan Margherita",
+        "cnt": "1",
+        "price": "16,26",
+		"etc": "28"
+      },
+	  
+	  {
+        "nm": "Pan Waikiki",
+        "cnt": "1",
+        "price": "0,00",
+		"etc": "28"
+      }
+	  
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "40,41"
+      
+    },
+    "total": {
+      "total_price": "43,24",
+	  "creditcardprice": "43,24"
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 60,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

@@ -1,0 +1,94 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Dutchman",
+        "cnt": "2",
+        "price": "29,96",
+		"etc":"28"
+		
+		
+		
+        
+
+      },
+	  {
+        "nm": "Pan Waikiki",
+        "cnt": "1",
+        "price": "12,49",
+		"etc":"28"
+		
+		
+		
+        
+
+      },
+	  {
+        "nm": "Pan Chicken Spargel",
+        "cnt": "1",
+        "price": "11,49",
+		"etc":"28"
+		
+		
+		
+		
+        
+
+      },
+	  {
+        "nm": "Pan Funghi",
+        "cnt": "1",
+        "price": "11,49",
+		"etc":"28"
+		
+		
+		
+		
+        
+
+      },
+	  {
+        "nm": "Pan Salami Supreme",
+        "cnt": "1",
+        "price": "10,99",
+		"etc":"25"
+		
+		
+		
+		
+        
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "71,42"
+      
+    },
+    "total": {
+      "total_price": "76,42",
+	  "creditcardprice": "76,42"
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 21,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

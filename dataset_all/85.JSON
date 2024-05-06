@@ -1,0 +1,46 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pan VEGAN Las Vega",
+        "cnt": "1",
+        "price": "11,49",
+        "etc": "25"
+      },
+
+
+       {
+        "nm": "Pan Chicken Spargel",
+        "cnt": "1",
+        "price": "11,49",
+        "etc": "28"
+       
+      }
+    
+    ],
+
+    "sub_total": {
+      "subtotal_price": "22,31"
+      
+    },
+
+    "total": {
+      "total_price": "23,97"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 85,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

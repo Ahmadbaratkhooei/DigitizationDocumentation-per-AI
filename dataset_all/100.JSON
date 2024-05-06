@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Calzini Schinken Paprika",
+        "cnt": "1",
+        "price": "3,85"
+       
+      },
+      {
+        "nm": "250ml Red Bull",
+        "cnt": "1",
+        "price": "2,09"
+       
+      }
+    ],
+
+    "sub_total": {
+      "subtotal_price": "5,57"
+      
+    },
+
+    "total": {
+      "total_price": "6,19",
+      "creditcardprice": "6,19"
+
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 100,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

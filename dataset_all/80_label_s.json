@@ -1,0 +1,2325 @@
+{
+  "id": 80,
+  "data": {
+    "ocr": "/data/upload/3/a4f2579c-80.jpg"
+  },
+  "annotations": [
+    {
+      "id": 12,
+      "created_username": " saeidedana66@yahoo.com, 1",
+      "created_ago": "2 weeks, 2 days",
+      "completed_by": {
+        "id": 1,
+        "first_name": "",
+        "last_name": "",
+        "avatar": null,
+        "email": "saeidedana66@yahoo.com",
+        "initials": "sa"
+      },
+      "result": [
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.9787234042553195,
+                36.42172523961661
+              ],
+              [
+                5.74468085106383,
+                36.10223642172524
+              ],
+              [
+                6.170212765957447,
+                41.853035143769965
+              ],
+              [
+                3.404255319148936,
+                42.49201277955272
+              ]
+            ],
+            "closed": true
+          },
+          "id": "vrZc7m72ul",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.9787234042553195,
+                36.42172523961661
+              ],
+              [
+                5.74468085106383,
+                36.10223642172524
+              ],
+              [
+                6.170212765957447,
+                41.853035143769965
+              ],
+              [
+                3.404255319148936,
+                42.49201277955272
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "1"
+            ]
+          },
+          "id": "vrZc7m72ul",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.9787234042553195,
+                36.42172523961661
+              ],
+              [
+                5.74468085106383,
+                36.10223642172524
+              ],
+              [
+                6.170212765957447,
+                41.853035143769965
+              ],
+              [
+                3.404255319148936,
+                42.49201277955272
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "1"
+            ]
+          },
+          "id": "vrZc7m72ul",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                11.063829787234043,
+                35.14376996805112
+              ],
+              [
+                27.23404255319149,
+                35.46325878594249
+              ],
+              [
+                27.23404255319149,
+                43.13099041533546
+              ],
+              [
+                11.27659574468085,
+                42.81150159744409
+              ]
+            ],
+            "closed": true
+          },
+          "id": "55sGHGKu-G",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                11.063829787234043,
+                35.14376996805112
+              ],
+              [
+                27.23404255319149,
+                35.46325878594249
+              ],
+              [
+                27.23404255319149,
+                43.13099041533546
+              ],
+              [
+                11.27659574468085,
+                42.81150159744409
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Calzini"
+            ]
+          },
+          "id": "55sGHGKu-G",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                11.063829787234043,
+                35.14376996805112
+              ],
+              [
+                27.23404255319149,
+                35.46325878594249
+              ],
+              [
+                27.23404255319149,
+                43.13099041533546
+              ],
+              [
+                11.27659574468085,
+                42.81150159744409
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "1"
+            ]
+          },
+          "id": "55sGHGKu-G",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                29.148936170212757,
+                35.14376996805112
+              ],
+              [
+                42.12765957446808,
+                36.10223642172524
+              ],
+              [
+                42.5531914893617,
+                43.76996805111821
+              ],
+              [
+                28.72340425531915,
+                43.45047923322684
+              ]
+            ],
+            "closed": true
+          },
+          "id": "Pg_gyEk1Nc",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                29.148936170212757,
+                35.14376996805112
+              ],
+              [
+                42.12765957446808,
+                36.10223642172524
+              ],
+              [
+                42.5531914893617,
+                43.76996805111821
+              ],
+              [
+                28.72340425531915,
+                43.45047923322684
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Salami"
+            ]
+          },
+          "id": "Pg_gyEk1Nc",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                29.148936170212757,
+                35.14376996805112
+              ],
+              [
+                42.12765957446808,
+                36.10223642172524
+              ],
+              [
+                42.5531914893617,
+                43.76996805111821
+              ],
+              [
+                28.72340425531915,
+                43.45047923322684
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "1"
+            ]
+          },
+          "id": "Pg_gyEk1Nc",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                75.74468085106383,
+                36.42172523961661
+              ],
+              [
+                85.53191489361703,
+                36.74121405750799
+              ],
+              [
+                85.74468085106383,
+                44.08945686900959
+              ],
+              [
+                75.74468085106383,
+                43.76996805111821
+              ]
+            ],
+            "closed": true
+          },
+          "id": "mh59PqH0Oo",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                75.74468085106383,
+                36.42172523961661
+              ],
+              [
+                85.53191489361703,
+                36.74121405750799
+              ],
+              [
+                85.74468085106383,
+                44.08945686900959
+              ],
+              [
+                75.74468085106383,
+                43.76996805111821
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "6,49"
+            ]
+          },
+          "id": "mh59PqH0Oo",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                75.74468085106383,
+                36.42172523961661
+              ],
+              [
+                85.53191489361703,
+                36.74121405750799
+              ],
+              [
+                85.74468085106383,
+                44.08945686900959
+              ],
+              [
+                75.74468085106383,
+                43.76996805111821
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "1"
+            ]
+          },
+          "id": "mh59PqH0Oo",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                5.957446808510639,
+                48.562300319488806
+              ],
+              [
+                3.404255319148936,
+                48.56230031948882
+              ],
+              [
+                2.5531914893617023,
+                43.45047923322684
+              ],
+              [
+                6.808510638297872,
+                42.49201277955272
+              ]
+            ],
+            "closed": true
+          },
+          "id": "yqqBoU_grp",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                5.957446808510639,
+                48.562300319488806
+              ],
+              [
+                3.404255319148936,
+                48.56230031948882
+              ],
+              [
+                2.5531914893617023,
+                43.45047923322684
+              ],
+              [
+                6.808510638297872,
+                42.49201277955272
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "1"
+            ]
+          },
+          "id": "yqqBoU_grp",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                5.957446808510639,
+                48.562300319488806
+              ],
+              [
+                3.404255319148936,
+                48.56230031948882
+              ],
+              [
+                2.5531914893617023,
+                43.45047923322684
+              ],
+              [
+                6.808510638297872,
+                42.49201277955272
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "2"
+            ]
+          },
+          "id": "yqqBoU_grp",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                10.851063829787234,
+                49.8402555910543
+              ],
+              [
+                27.4468085106383,
+                49.840255591054316
+              ],
+              [
+                27.4468085106383,
+                43.45047923322684
+              ],
+              [
+                11.063829787234043,
+                42.81150159744409
+              ]
+            ],
+            "closed": true
+          },
+          "id": "uwbiE406Yy",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                10.851063829787234,
+                49.8402555910543
+              ],
+              [
+                27.4468085106383,
+                49.840255591054316
+              ],
+              [
+                27.4468085106383,
+                43.45047923322684
+              ],
+              [
+                11.063829787234043,
+                42.81150159744409
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Chicken"
+            ]
+          },
+          "id": "uwbiE406Yy",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                10.851063829787234,
+                49.8402555910543
+              ],
+              [
+                27.4468085106383,
+                49.840255591054316
+              ],
+              [
+                27.4468085106383,
+                43.45047923322684
+              ],
+              [
+                11.063829787234043,
+                42.81150159744409
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "2"
+            ]
+          },
+          "id": "uwbiE406Yy",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                49.57446808510638,
+                44.40894568690096
+              ],
+              [
+                49.57446808510638,
+                50.798722044728436
+              ],
+              [
+                28.72340425531915,
+                49.52076677316294
+              ],
+              [
+                28.51063829787234,
+                43.45047923322684
+              ]
+            ],
+            "closed": true
+          },
+          "id": "CLDT3ucgRl",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                49.57446808510638,
+                44.40894568690096
+              ],
+              [
+                49.57446808510638,
+                50.798722044728436
+              ],
+              [
+                28.72340425531915,
+                49.52076677316294
+              ],
+              [
+                28.51063829787234,
+                43.45047923322684
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Strippers"
+            ]
+          },
+          "id": "CLDT3ucgRl",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                49.57446808510638,
+                44.40894568690096
+              ],
+              [
+                49.57446808510638,
+                50.798722044728436
+              ],
+              [
+                28.72340425531915,
+                49.52076677316294
+              ],
+              [
+                28.51063829787234,
+                43.45047923322684
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "2"
+            ]
+          },
+          "id": "CLDT3ucgRl",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                75.31914893617021,
+                50.1597444089457
+              ],
+              [
+                85.74468085106383,
+                50.159744408945684
+              ],
+              [
+                85.74468085106383,
+                44.40894568690096
+              ],
+              [
+                75.31914893617021,
+                43.76996805111821
+              ]
+            ],
+            "closed": true
+          },
+          "id": "UeGEGcSqsc",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                75.31914893617021,
+                50.1597444089457
+              ],
+              [
+                85.74468085106383,
+                50.159744408945684
+              ],
+              [
+                85.74468085106383,
+                44.40894568690096
+              ],
+              [
+                75.31914893617021,
+                43.76996805111821
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "5,99"
+            ]
+          },
+          "id": "UeGEGcSqsc",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                75.31914893617021,
+                50.1597444089457
+              ],
+              [
+                85.74468085106383,
+                50.159744408945684
+              ],
+              [
+                85.74468085106383,
+                44.40894568690096
+              ],
+              [
+                75.31914893617021,
+                43.76996805111821
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "2"
+            ]
+          },
+          "id": "UeGEGcSqsc",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                6.382978723404255,
+                55.59105431309904
+              ],
+              [
+                3.404255319148936,
+                55.59105431309904
+              ],
+              [
+                2.765957446808511,
+                49.201277955271564
+              ],
+              [
+                6.382978723404255,
+                50.159744408945684
+              ]
+            ],
+            "closed": true
+          },
+          "id": "qkL_Yl01HH",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                6.382978723404255,
+                55.59105431309904
+              ],
+              [
+                3.404255319148936,
+                55.59105431309904
+              ],
+              [
+                2.765957446808511,
+                49.201277955271564
+              ],
+              [
+                6.382978723404255,
+                50.159744408945684
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "1"
+            ]
+          },
+          "id": "qkL_Yl01HH",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                6.382978723404255,
+                55.59105431309904
+              ],
+              [
+                3.404255319148936,
+                55.59105431309904
+              ],
+              [
+                2.765957446808511,
+                49.201277955271564
+              ],
+              [
+                6.382978723404255,
+                50.159744408945684
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "3"
+            ]
+          },
+          "id": "qkL_Yl01HH",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                23.19148936170213,
+                56.23003194888179
+              ],
+              [
+                10.851063829787234,
+                56.23003194888179
+              ],
+              [
+                10.638297872340425,
+                49.840255591054316
+              ],
+              [
+                23.404255319148938,
+                50.47923322683706
+              ]
+            ],
+            "closed": true
+          },
+          "id": "AAWjr97aBV",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                23.19148936170213,
+                56.23003194888179
+              ],
+              [
+                10.851063829787234,
+                56.23003194888179
+              ],
+              [
+                10.638297872340425,
+                49.840255591054316
+              ],
+              [
+                23.404255319148938,
+                50.47923322683706
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Sweet"
+            ]
+          },
+          "id": "AAWjr97aBV",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                23.19148936170213,
+                56.23003194888179
+              ],
+              [
+                10.851063829787234,
+                56.23003194888179
+              ],
+              [
+                10.638297872340425,
+                49.840255591054316
+              ],
+              [
+                23.404255319148938,
+                50.47923322683706
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "3"
+            ]
+          },
+          "id": "AAWjr97aBV",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                36.170212765957444,
+                56.23003194888179
+              ],
+              [
+                24.46808510638298,
+                56.23003194888179
+              ],
+              [
+                24.46808510638298,
+                49.52076677316294
+              ],
+              [
+                36.170212765957444,
+                49.840255591054316
+              ]
+            ],
+            "closed": true
+          },
+          "id": "1riFUWcMlw",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                36.170212765957444,
+                56.23003194888179
+              ],
+              [
+                24.46808510638298,
+                56.23003194888179
+              ],
+              [
+                24.46808510638298,
+                49.52076677316294
+              ],
+              [
+                36.170212765957444,
+                49.840255591054316
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Chili"
+            ]
+          },
+          "id": "1riFUWcMlw",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                36.170212765957444,
+                56.23003194888179
+              ],
+              [
+                24.46808510638298,
+                56.23003194888179
+              ],
+              [
+                24.46808510638298,
+                49.52076677316294
+              ],
+              [
+                36.170212765957444,
+                49.840255591054316
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "3"
+            ]
+          },
+          "id": "1riFUWcMlw",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                44.8936170212766,
+                56.54952076677316
+              ],
+              [
+                37.02127659574468,
+                55.91054313099041
+              ],
+              [
+                37.02127659574468,
+                49.840255591054316
+              ],
+              [
+                45.319148936170215,
+                50.159744408945684
+              ]
+            ],
+            "closed": true
+          },
+          "id": "PZ07KIPCmJ",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                44.8936170212766,
+                56.54952076677316
+              ],
+              [
+                37.02127659574468,
+                55.91054313099041
+              ],
+              [
+                37.02127659574468,
+                49.840255591054316
+              ],
+              [
+                45.319148936170215,
+                50.159744408945684
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Dip"
+            ]
+          },
+          "id": "PZ07KIPCmJ",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                44.8936170212766,
+                56.54952076677316
+              ],
+              [
+                37.02127659574468,
+                55.91054313099041
+              ],
+              [
+                37.02127659574468,
+                49.840255591054316
+              ],
+              [
+                45.319148936170215,
+                50.159744408945684
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "3"
+            ]
+          },
+          "id": "PZ07KIPCmJ",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                76.17021276595744,
+                56.23003194888179
+              ],
+              [
+                86.59574468085107,
+                56.54952076677316
+              ],
+              [
+                86.59574468085107,
+                50.159744408945684
+              ],
+              [
+                76.17021276595744,
+                50.159744408945684
+              ]
+            ],
+            "closed": true
+          },
+          "id": "C1gWECJIAN",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                76.17021276595744,
+                56.23003194888179
+              ],
+              [
+                86.59574468085107,
+                56.54952076677316
+              ],
+              [
+                86.59574468085107,
+                50.159744408945684
+              ],
+              [
+                76.17021276595744,
+                50.159744408945684
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "1,29"
+            ]
+          },
+          "id": "C1gWECJIAN",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                76.17021276595744,
+                56.23003194888179
+              ],
+              [
+                86.59574468085107,
+                56.54952076677316
+              ],
+              [
+                86.59574468085107,
+                50.159744408945684
+              ],
+              [
+                76.17021276595744,
+                50.159744408945684
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "3"
+            ]
+          },
+          "id": "C1gWECJIAN",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                5.957446808510639,
+                62.61980830670927
+              ],
+              [
+                2.5531914893617023,
+                62.61980830670927
+              ],
+              [
+                2.765957446808511,
+                55.27156549520767
+              ],
+              [
+                6.170212765957447,
+                55.91054313099041
+              ]
+            ],
+            "closed": true
+          },
+          "id": "YgBCAbng7U",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                5.957446808510639,
+                62.61980830670927
+              ],
+              [
+                2.5531914893617023,
+                62.61980830670927
+              ],
+              [
+                2.765957446808511,
+                55.27156549520767
+              ],
+              [
+                6.170212765957447,
+                55.91054313099041
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "2"
+            ]
+          },
+          "id": "YgBCAbng7U",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                5.957446808510639,
+                62.61980830670927
+              ],
+              [
+                2.5531914893617023,
+                62.61980830670927
+              ],
+              [
+                2.765957446808511,
+                55.27156549520767
+              ],
+              [
+                6.170212765957447,
+                55.91054313099041
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "4"
+            ]
+          },
+          "id": "YgBCAbng7U",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                30,
+                63.258785942492004
+              ],
+              [
+                7.23404255319149,
+                62.61980830670927
+              ],
+              [
+                6.808510638297872,
+                54.95207667731629
+              ],
+              [
+                30.425531914893618,
+                56.86900958466454
+              ]
+            ],
+            "closed": true
+          },
+          "id": "iXlrBvNbqY",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                30,
+                63.258785942492004
+              ],
+              [
+                7.23404255319149,
+                62.61980830670927
+              ],
+              [
+                6.808510638297872,
+                54.95207667731629
+              ],
+              [
+                30.425531914893618,
+                56.86900958466454
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Thickshake"
+            ]
+          },
+          "id": "iXlrBvNbqY",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                30,
+                63.258785942492004
+              ],
+              [
+                7.23404255319149,
+                62.61980830670927
+              ],
+              [
+                6.808510638297872,
+                54.95207667731629
+              ],
+              [
+                30.425531914893618,
+                56.86900958466454
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "4"
+            ]
+          },
+          "id": "iXlrBvNbqY",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                31.06382978723405,
+                62.93929712460063
+              ],
+              [
+                49.148936170212764,
+                63.57827476038339
+              ],
+              [
+                49.787234042553195,
+                56.86900958466454
+              ],
+              [
+                30.638297872340427,
+                55.91054313099041
+              ]
+            ],
+            "closed": true
+          },
+          "id": "VK09pkmHBL",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                31.06382978723405,
+                62.93929712460063
+              ],
+              [
+                49.148936170212764,
+                63.57827476038339
+              ],
+              [
+                49.787234042553195,
+                56.86900958466454
+              ],
+              [
+                30.638297872340427,
+                55.91054313099041
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Erdbeere"
+            ]
+          },
+          "id": "VK09pkmHBL",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                31.06382978723405,
+                62.93929712460063
+              ],
+              [
+                49.148936170212764,
+                63.57827476038339
+              ],
+              [
+                49.787234042553195,
+                56.86900958466454
+              ],
+              [
+                30.638297872340427,
+                55.91054313099041
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "4"
+            ]
+          },
+          "id": "VK09pkmHBL",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                75.95744680851064,
+                64.21725239616612
+              ],
+              [
+                85.53191489361703,
+                63.57827476038339
+              ],
+              [
+                86.59574468085107,
+                56.23003194888179
+              ],
+              [
+                75.74468085106383,
+                56.54952076677316
+              ]
+            ],
+            "closed": true
+          },
+          "id": "WEK9G5MRDw",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                75.95744680851064,
+                64.21725239616612
+              ],
+              [
+                85.53191489361703,
+                63.57827476038339
+              ],
+              [
+                86.59574468085107,
+                56.23003194888179
+              ],
+              [
+                75.74468085106383,
+                56.54952076677316
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "8,98"
+            ]
+          },
+          "id": "WEK9G5MRDw",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                75.95744680851064,
+                64.21725239616612
+              ],
+              [
+                85.53191489361703,
+                63.57827476038339
+              ],
+              [
+                86.59574468085107,
+                56.23003194888179
+              ],
+              [
+                75.74468085106383,
+                56.54952076677316
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "4"
+            ]
+          },
+          "id": "WEK9G5MRDw",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.765957446808511,
+                67.0926517571885
+              ],
+              [
+                14.25531914893617,
+                67.73162939297124
+              ],
+              [
+                15.106382978723405,
+                74.76038338658147
+              ],
+              [
+                2.978723404255319,
+                74.76038338658147
+              ]
+            ],
+            "closed": true
+          },
+          "id": "7kEWO1dWYL",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.765957446808511,
+                67.0926517571885
+              ],
+              [
+                14.25531914893617,
+                67.73162939297124
+              ],
+              [
+                15.106382978723405,
+                74.76038338658147
+              ],
+              [
+                2.978723404255319,
+                74.76038338658147
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Netto"
+            ]
+          },
+          "id": "7kEWO1dWYL",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.765957446808511,
+                67.0926517571885
+              ],
+              [
+                14.25531914893617,
+                67.73162939297124
+              ],
+              [
+                15.106382978723405,
+                74.76038338658147
+              ],
+              [
+                2.978723404255319,
+                74.76038338658147
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "5"
+            ]
+          },
+          "id": "7kEWO1dWYL",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                74.8936170212766,
+                68.05111821086261
+              ],
+              [
+                87.23404255319149,
+                67.73162939297124
+              ],
+              [
+                87.65957446808511,
+                74.76038338658147
+              ],
+              [
+                85.92652085929551,
+                74.80304484345734
+              ],
+              [
+                74.68085106382979,
+                75.07987220447285
+              ]
+            ],
+            "closed": true
+          },
+          "id": "sn9kJFAFiC",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                74.8936170212766,
+                68.05111821086261
+              ],
+              [
+                87.23404255319149,
+                67.73162939297124
+              ],
+              [
+                87.65957446808511,
+                74.76038338658147
+              ],
+              [
+                85.92652085929551,
+                74.80304484345734
+              ],
+              [
+                74.68085106382979,
+                75.07987220447285
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "21,27"
+            ]
+          },
+          "id": "sn9kJFAFiC",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                74.8936170212766,
+                68.05111821086261
+              ],
+              [
+                87.23404255319149,
+                67.73162939297124
+              ],
+              [
+                87.65957446808511,
+                74.76038338658147
+              ],
+              [
+                85.92652085929551,
+                74.80304484345734
+              ],
+              [
+                74.68085106382979,
+                75.07987220447285
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "5"
+            ]
+          },
+          "id": "sn9kJFAFiC",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.553191489361702,
+                81.15015974440895
+              ],
+              [
+                17.872340425531913,
+                81.15015974440895
+              ],
+              [
+                17.4468085106383,
+                74.76038338658147
+              ],
+              [
+                3.1914893617021276,
+                74.12140575079871
+              ]
+            ],
+            "closed": true
+          },
+          "id": "4fx6Ic_Zty",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.553191489361702,
+                81.15015974440895
+              ],
+              [
+                17.872340425531913,
+                81.15015974440895
+              ],
+              [
+                17.4468085106383,
+                74.76038338658147
+              ],
+              [
+                3.1914893617021276,
+                74.12140575079871
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Gesamt"
+            ]
+          },
+          "id": "4fx6Ic_Zty",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.553191489361702,
+                81.15015974440895
+              ],
+              [
+                17.872340425531913,
+                81.15015974440895
+              ],
+              [
+                17.4468085106383,
+                74.76038338658147
+              ],
+              [
+                3.1914893617021276,
+                74.12140575079871
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "6"
+            ]
+          },
+          "id": "4fx6Ic_Zty",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                87.23404255319149,
+                82.42811501597444
+              ],
+              [
+                75.53191489361703,
+                82.74760383386581
+              ],
+              [
+                75.31914893617021,
+                75.07987220447285
+              ],
+              [
+                87.87234042553192,
+                74.76038338658147
+              ]
+            ],
+            "closed": true
+          },
+          "id": "JutRamW641",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                87.23404255319149,
+                82.42811501597444
+              ],
+              [
+                75.53191489361703,
+                82.74760383386581
+              ],
+              [
+                75.31914893617021,
+                75.07987220447285
+              ],
+              [
+                87.87234042553192,
+                74.76038338658147
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "22,75"
+            ]
+          },
+          "id": "JutRamW641",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                87.23404255319149,
+                82.42811501597444
+              ],
+              [
+                75.53191489361703,
+                82.74760383386581
+              ],
+              [
+                75.31914893617021,
+                75.07987220447285
+              ],
+              [
+                87.87234042553192,
+                74.76038338658147
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "6"
+            ]
+          },
+          "id": "JutRamW641",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.553191489361702,
+                94.2492012779553
+              ],
+              [
+                17.02127659574468,
+                94.88817891373802
+              ],
+              [
+                17.02127659574468,
+                87.53993610223642
+              ],
+              [
+                2.765957446808511,
+                86.26198083067092
+              ]
+            ],
+            "closed": true
+          },
+          "id": "Sm4Nv_NYwQ",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.553191489361702,
+                94.2492012779553
+              ],
+              [
+                17.02127659574468,
+                94.88817891373802
+              ],
+              [
+                17.02127659574468,
+                87.53993610223642
+              ],
+              [
+                2.765957446808511,
+                86.26198083067092
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "Klarna"
+            ]
+          },
+          "id": "Sm4Nv_NYwQ",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                2.553191489361702,
+                94.2492012779553
+              ],
+              [
+                17.02127659574468,
+                94.88817891373802
+              ],
+              [
+                17.02127659574468,
+                87.53993610223642
+              ],
+              [
+                2.765957446808511,
+                86.26198083067092
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "7"
+            ]
+          },
+          "id": "Sm4Nv_NYwQ",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                87.65957446808511,
+                95.20766773162941
+              ],
+              [
+                73.82978723404256,
+                95.52715654952077
+              ],
+              [
+                74.25531914893617,
+                86.5814696485623
+              ],
+              [
+                87.65957446808511,
+                86.26198083067092
+              ]
+            ],
+            "closed": true
+          },
+          "id": "g02y7mcq3M",
+          "from_name": "poly",
+          "to_name": "image",
+          "type": "polygon",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                87.65957446808511,
+                95.20766773162941
+              ],
+              [
+                73.82978723404256,
+                95.52715654952077
+              ],
+              [
+                74.25531914893617,
+                86.5814696485623
+              ],
+              [
+                87.65957446808511,
+                86.26198083067092
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "22,75"
+            ]
+          },
+          "id": "g02y7mcq3M",
+          "from_name": "transcription",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        },
+        {
+          "original_width": 1280,
+          "original_height": 852,
+          "image_rotation": 0,
+          "value": {
+            "points": [
+              [
+                87.65957446808511,
+                95.20766773162941
+              ],
+              [
+                73.82978723404256,
+                95.52715654952077
+              ],
+              [
+                74.25531914893617,
+                86.5814696485623
+              ],
+              [
+                87.65957446808511,
+                86.26198083067092
+              ]
+            ],
+            "closed": true,
+            "text": [
+              "7"
+            ]
+          },
+          "id": "g02y7mcq3M",
+          "from_name": "Line",
+          "to_name": "image",
+          "type": "textarea",
+          "origin": "manual"
+        }
+      ],
+      "was_cancelled": false,
+      "ground_truth": false,
+      "created_at": "2023-05-28T11:58:10.049203Z",
+      "updated_at": "2023-05-28T11:58:10.049226Z",
+      "lead_time": 969.281,
+      "last_action": null,
+      "task": 13,
+      "project": 3,
+      "updated_by": 1,
+      "parent_prediction": null,
+      "parent_annotation": null,
+      "last_created_by": null
+    }
+  ],
+  "predictions": []
+}

@@ -1,0 +1,50 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Grüner Garten",
+        "cnt": "1",
+        "price": "10,49",
+		"etc" : "28"
+      },
+	  
+	   {
+        "nm": "Pizza-Br Spinat Käse",
+        "cnt": "1",
+        "price": "4,99"
+      },
+	  
+	  
+	   {
+        "nm": "Fuze Eistee Mango",
+        "cnt": "1",
+        "price": "2,29",
+		"etc" : "400ml"
+      }
+	  
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "16,59"
+      
+    },
+    "total": {
+      "total_price": "18,02",
+	  "creditcardprice": "18,02"
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 40,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

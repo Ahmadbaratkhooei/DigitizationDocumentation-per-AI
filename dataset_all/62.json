@@ -1,0 +1,72 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Bomby",
+        "cnt": "1",
+        "price": "12,49",
+		"etc": "28"
+      },
+	  
+	   {
+        "nm": "Pan Salami",
+        "cnt": "1",
+        "price": "11,99",
+		"etc": "28"
+      },
+	  
+	  {
+        "nm": "Pan Salami",
+        "cnt": "1",
+        "price": "0,00",
+		"etc": "28"
+      },
+	  
+	  
+	  {
+        "nm": "Coca Cola",
+        "cnt": "1",
+        "price": "3,29",
+		"etc": "1L"
+      },
+	  
+	  {
+        "nm": "Fuze Eistee Pfirsich",
+        "cnt": "1",
+        "price": "2,29",
+		"etc": "400ml"
+      },
+	 
+	  {
+        "nm": "Jalapeno Cheese Bites",
+        "cnt": "2",
+        "price": "9,98"
+		
+      }
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "37,31"
+      
+    },
+    "total": {
+      "total_price": "40,54",
+	  "creditcardprice": "40,54"
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 62,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Chicken Box",
+        "cnt": "1",
+        "price": "10,99"
+
+
+      },
+       {
+        "nm": "BBQ Honey Dip",
+        "cnt": "1",
+        "price": "1,29"
+       
+      },
+       {
+        "nm": "Sweet Chili Dip",
+        "cnt": "1",
+        "price": "1,29"
+       
+      }
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "12,69"
+      
+    },
+    "total": {
+      "total_price": "13,57"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 81,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

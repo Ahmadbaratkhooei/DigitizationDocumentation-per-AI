@@ -1,0 +1,45 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Lucifer",
+        "cnt": "1",
+        "price": "8,99",
+        "etc": "25"
+
+
+      },
+       {
+        "nm": "Pan Waikiki",
+        "cnt": "1",
+        "price": "8,99",
+         "etc": "25"
+
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "16,80"
+      
+    },
+    "total": {
+      "total_price": "17,98",
+       "cashprice": "17,98"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 71,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

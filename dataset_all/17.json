@@ -1,0 +1,79 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Sucuk Hollandaise",
+        "cnt": "1",
+        "price": "10,14",
+		"etc":"32"
+		
+        
+
+      },
+	  {
+        "nm": "Pan Boston",
+        "cnt": "1",
+        "price": "9,09",
+		"etc":"32"
+		
+        
+
+      },
+	  {
+        "nm": "Pan Danish Burger",
+        "cnt": "1",
+        "price": "9,44",
+		"etc":"32"
+		
+        
+
+      },
+	  {
+        "nm": "Pan Funghi",
+        "cnt": "1",
+        "price": "8,39",
+		"etc":"32"
+		
+        
+
+      },
+	  {
+        "nm": "Chicken Wings",
+        "cnt": "2",
+        "price": "7,00"
+		
+		
+        
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "41,18"
+      
+    },
+    "total": {
+      "total_price": "44,06"
+	  
+	  
+	  
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 17,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

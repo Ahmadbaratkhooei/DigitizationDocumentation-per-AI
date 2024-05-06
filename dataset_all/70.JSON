@@ -1,0 +1,45 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Conchita",
+        "cnt": "1",
+        "price": "14,99",
+        "etc": "32"
+
+
+      },
+       {
+        "nm": "Pan Salami",
+        "cnt": "1",
+        "price": "0,00",
+         "etc": "32"
+
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "14,01"
+      
+    },
+    "total": {
+      "total_price": "14,99",
+       "cashprice": "14,99"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 70,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

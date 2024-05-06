@@ -1,0 +1,57 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Boston",
+        "cnt": "1",
+        "price": "8,99",
+		"etc":"25"
+
+      },
+	   {
+        "nm": "500ml Fanta",
+        "cnt": "1",
+        "price": "2,29"
+		
+
+      },
+	   {
+        "nm": "Kräuterremoulade Dip",
+        "cnt": "1",
+        "price": "1,29"
+		
+
+      },
+	   {
+        "nm": "Cheese Bites",
+        "cnt": "1",
+        "price": "3,99"
+		
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "15,47"
+      
+    },
+    "total": {
+      "total_price": "16,81",
+	  "creditcardprice": "16,81"
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 2,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

@@ -1,0 +1,94 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Sucuk Hollandaise",
+        "cnt": "1",
+        "price": "8,90",
+		"etc": "25"
+      },
+	  
+	  {
+        "nm": "Pan Danish Burger",
+        "cnt": "1",
+        "price": "8,25",
+		"etc": "25"
+		
+      },
+	  
+	  {
+        "nm": "Pan Chicken Spargel",
+        "cnt": "1",
+        "price": "7,15",
+		"etc": "25"
+		
+      },
+	  
+	  {
+        "nm": "Pizza-Br Käse",
+        "cnt": "1",
+        "price": "4,30"
+		
+      },
+	  
+	   {
+        "nm": "Pizza-Br Chilisalami",
+        "cnt": "1",
+        "price": "4,30"
+		
+      },
+	  
+	 {
+        "nm": "Pizza-Br Thunfisxh Käse",
+        "cnt": "1",
+        "price": "4,30"
+		
+      },
+	  {
+        "nm": "New York Cheescake",
+        "cnt": "1",
+        "price": "2,50"
+		
+      },
+	  
+	  {
+        "nm": "Lava Cake",
+        "cnt": "1",
+        "price": "2,15"
+		
+      },
+	  
+	  {
+        "nm": "Lava Cake",
+        "cnt": "1",
+        "price": "2,15"
+		
+      }
+	  
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "41,13"
+      
+    },
+    "total": {
+      "total_price": "44,00"
+	  
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 57,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

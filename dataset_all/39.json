@@ -1,0 +1,35 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Crazy Dog",
+        "cnt": "1",
+        "price": "6,29",
+		"etc" : "25"
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "5,88"
+      
+    },
+    "total": {
+      "total_price": "6,29",
+	  "cashprice": "6,29"
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 39,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

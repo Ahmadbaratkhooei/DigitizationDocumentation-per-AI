@@ -1,0 +1,59 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pan VEGAN Curry",
+        "cnt": "1",
+        "price": "7,69",
+        "etc": "25"
+       
+      },
+
+
+       {
+        "nm": "Pan Margherita",
+        "cnt": "1",
+        "price": "6,15",
+        "etc": "25"
+      
+       
+      },
+
+
+       {
+        "nm": "Pan Margherita",
+        "cnt": "1",
+        "price": "6,15",
+        "etc": "25"
+      
+       
+      }
+    
+    ],
+
+    "sub_total": {
+      "subtotal_price": "18,69"
+      
+    },
+
+    "total": {
+      "total_price": "19,99",
+      "creditcardprice": "19,99"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 88,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

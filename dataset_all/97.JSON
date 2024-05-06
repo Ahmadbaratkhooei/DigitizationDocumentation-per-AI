@@ -1,0 +1,49 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pan Chicken Spargel",
+        "cnt": "1",
+        "price": "11,49",
+        "etc": "28"
+       
+      },
+
+
+       {
+        "nm": "XL Chicken Kickers",
+        "cnt": "1",
+        "price": "11,49"
+      
+       
+      }
+    
+    ],
+
+    "sub_total": {
+      "subtotal_price": "21,48"
+      
+    },
+
+    "total": {
+      "total_price": "22,98",
+      "creditcardprice": "22,98"
+
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 97,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

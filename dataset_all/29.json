@@ -1,0 +1,73 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Penne Pasta Orlando",
+        "cnt": "1",
+        "price": "7,20"
+		
+		
+		
+		
+		
+		
+        
+
+      },
+	  {
+        "nm": "Pan Sucuk Hollandaise",
+        "cnt": "1",
+        "price": "10,14",
+		"etc":"28"
+		
+		
+		
+		
+        
+
+      },
+	  {
+        "nm": "Cinnamon Bread",
+        "cnt": "1",
+        "price": "2,15"
+		
+		
+		
+		
+		
+        
+
+      }
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "18,22"
+      
+    },
+    "total": {
+      "total_price": "19,49"
+	 
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 29,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

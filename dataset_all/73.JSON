@@ -1,0 +1,53 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Teriyaki Chicken",
+        "cnt": "1",
+        "price": "11,99",
+        "etc": "28"
+
+
+      },
+       {
+        "nm": "Pan Boston",
+        "cnt": "1",
+        "price": "10,49",
+         "etc": "28"
+
+
+      },
+       {
+        "nm": "Pan Margherita",
+        "cnt": "1",
+        "price": "0,00",
+         "etc": "28"
+       
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "21,01"
+      
+    },
+    "total": {
+      "total_price": "22,48",
+       "cashprice": "22,48"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 73,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

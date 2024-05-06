@@ -1,0 +1,58 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pan Boston",
+        "cnt": "1",
+        "price": "12,49",
+        "etc": "28"
+       
+      },
+
+
+       {
+        "nm": "Pizza-Br Sucuk Käse",
+        "cnt": "1",
+        "price": "5,99"
+      
+       
+      },
+
+
+       {
+        "nm": "BBQ Honey Dip",
+        "cnt": "1",
+        "price": "1,29"
+       
+      
+       
+      }
+    
+    ],
+
+    "sub_total": {
+      "subtotal_price": "18,48"
+      
+    },
+
+    "total": {
+      "total_price": "19,77"
+
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 92,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

@@ -1,0 +1,43 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pizza-Br VEGAN Las Vega",
+        "cnt": "1",
+        "price": "4,99"
+
+
+      },
+       {
+        "nm": "5OOml Coca Cola Zero",
+        "cnt": "1",
+        "price": "2,29"
+       
+      }
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "6,79"
+      
+    },
+    "total": {
+      "total_price": "7,53",
+      "creditcardprice": "7,53"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 78,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

@@ -1,0 +1,60 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Penne Pasta Chicko",
+        "cnt": "1",
+        "price": "10,99"
+		
+		
+		
+		
+		
+        
+
+      },
+	  {
+        "nm": "Pan Tuna",
+        "cnt": "1",
+        "price": "15,99",
+		"etc":"32"
+		
+		
+		
+		
+        
+
+      }
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "25,21"
+      
+    },
+    "total": {
+      "total_price": "26,98",
+	  "creditcardprice": "26,98"
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 27,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

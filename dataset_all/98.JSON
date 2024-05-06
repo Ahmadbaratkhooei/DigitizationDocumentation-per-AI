@@ -1,0 +1,48 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pan Lunch Individuell",
+        "cnt": "1",
+        "price": "6,99",
+        "etc": "25"
+       
+      },
+
+
+       {
+        "nm": "Chicken Strippers",
+        "cnt": "1",
+        "price": "5,99"
+      
+       
+      }
+    
+    ],
+
+    "sub_total": {
+      "subtotal_price": "12,96"
+      
+    },
+
+    "total": {
+      "total_price": "13,97"
+
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 98,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

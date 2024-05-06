@@ -1,0 +1,51 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Teriyaki Chicken",
+        "cnt": "1",
+        "price": "10,49",
+		"etc":"25"
+		
+        
+
+      },
+	  {
+        "nm": "400ml Fuze Eistee Pfirsich",
+        "cnt": "1",
+        "price": "2,29"
+		
+        
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "11,93"
+      
+    },
+    "total": {
+      "total_price": "13,03",
+	  "creditcardprice": "13,03"
+	  
+	  
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 16,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

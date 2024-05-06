@@ -1,0 +1,68 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pan Salami",
+        "cnt": "1",
+        "price": "14,28",
+        "etc": "28"
+       
+      },
+
+
+       {
+        "nm": "Pizza-Br Salami",
+        "cnt": "1",
+        "price": "5,99"
+      
+       
+      },
+
+
+       {
+        "nm": "Chicken Box",
+        "cnt": "1",
+        "price": "10,99"
+      
+       
+      },
+
+
+       {
+        "nm": "Salat Green Garden",
+        "cnt": "1",
+        "price": "8,99"
+      
+       
+      }
+
+
+       
+    ],
+
+    "sub_total": {
+      "subtotal_price": "37,62"
+      
+    },
+
+    "total": {
+      "total_price": "40,25",
+      "creditcardprice": "40,25"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 89,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

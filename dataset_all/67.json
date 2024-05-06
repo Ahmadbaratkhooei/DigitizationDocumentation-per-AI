@@ -1,0 +1,38 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Kräuterremoulade Dip",
+        "cnt": "1",
+        "price": "1,29"
+	
+      }
+	  	  
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "1,21"
+      
+    },
+    "total": {
+      "total_price": "1,29",
+	  "creditcardprice": "1,29"
+	  
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 67,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

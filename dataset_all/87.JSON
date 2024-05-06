@@ -1,0 +1,47 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pan Lucifer",
+        "cnt": "1",
+        "price": "10,84",
+        "etc": "32"
+       
+      },
+
+
+       {
+        "nm": "1L Coca Cola",
+        "cnt": "1",
+        "price": "3,29"
+      
+       
+      }
+    
+    ],
+
+    "sub_total": {
+      "subtotal_price": "13,10"
+      
+    },
+
+    "total": {
+      "total_price": "14,38"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 87,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

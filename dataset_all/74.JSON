@@ -1,0 +1,57 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Lucca",
+        "cnt": "2",
+        "price": "30,98",
+        "etc": "32"
+
+
+      },
+       {
+        "nm": "1L Coca Cola",
+        "cnt": "1",
+        "price": "3,29"
+
+
+      },
+       {
+        "nm": "500ml Bier Becks",
+        "cnt": "1",
+        "price": "2,79"
+       
+
+      },
+       {
+        "nm": "1L Coca Cola",
+        "cnt": "1",
+        "price": "3,29"
+
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "37,30"
+      
+    },
+    "total": {
+      "total_price": "40,93"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 74,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

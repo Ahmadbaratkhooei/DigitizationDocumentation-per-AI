@@ -1,0 +1,45 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Bomby",
+        "cnt": "1",
+        "price": "8,09",
+		"etc": "25"
+      },
+	  
+	   {
+        "nm": "Mezzo Mix",
+        "cnt": "1",
+        "price": "2,06",
+		"etc": "500ml"
+      }
+	  	  
+	  	  
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "9,50"
+      
+    },
+    "total": {
+      "total_price": "10,40"
+	  
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 66,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

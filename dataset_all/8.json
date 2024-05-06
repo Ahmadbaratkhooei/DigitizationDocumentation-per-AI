@@ -1,0 +1,52 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pizza-Br Prosciutto Käse",
+        "cnt": "1",
+        "price": "5,99"
+        
+
+      },
+      {
+        "nm": "Salat Mini",
+        "cnt": "1",
+        "price": "2,99"
+        
+
+      },
+      {
+        "nm": "Knoblauch Dip",
+        "cnt": "1",
+        "price": "1,29"
+        
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "9,60"
+      
+    },
+    "total": {
+      "total_price": "10,27"
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 8,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

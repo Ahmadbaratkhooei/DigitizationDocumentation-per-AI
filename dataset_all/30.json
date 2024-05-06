@@ -1,0 +1,51 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Danish Burger",
+        "cnt": "1",
+        "price": "11,19",
+		"etc":"32"
+		
+		
+		
+		
+		
+		
+        
+
+      }
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "10,46"
+      
+    },
+    "total": {
+      "total_price": "11,19",
+	  "creditcardprice": "11,19"
+	 
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 30,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

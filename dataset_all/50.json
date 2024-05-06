@@ -1,0 +1,51 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Lucifer",
+        "cnt": "1",
+        "price": "12,49",
+		"etc": "28"
+      },
+	  
+	  {
+        "nm": "Pan Salami",
+        "cnt": "1",
+        "price": "11,99",
+		"etc": "28"
+      },
+	  
+	  {
+        "nm": "Pan Salami",
+        "cnt": "1",
+        "price": "11,99",
+		"etc": "28"
+      }
+	  
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "22,88"
+      
+    },
+    "total": {
+      "total_price": "24,48"
+	  
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 50,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

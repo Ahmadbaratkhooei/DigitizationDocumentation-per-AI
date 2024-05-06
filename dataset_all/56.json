@@ -1,0 +1,44 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Salami",
+        "cnt": "1",
+        "price": "13,97",
+		"etc": "28"
+      },
+	  
+	  {
+        "nm": "Jalapeno Cheese Bites",
+        "cnt": "1",
+        "price": "4,99"
+		
+      }
+	  
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "17,72"
+      
+    },
+    "total": {
+      "total_price": "18,96",
+	  "creditcardprice": "18,96"
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 56,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

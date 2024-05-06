@@ -1,0 +1,79 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "CHEESY Crazy Dog",
+        "cnt": "1",
+        "price": "15,28",
+        "etc": "28"
+       
+      },
+
+
+       {
+        "nm": "CHEESY BBQ Poncho",
+        "cnt": "1",
+        "price": "20,28",
+        "etc": "32"
+      
+       
+      },
+
+
+       {
+        "nm": "Knoblauch Dip",
+        "cnt": "1",
+        "price": "1,29"
+       
+      
+       
+      },
+
+
+       {
+        "nm": "Aioli Dip",
+        "cnt": "1",
+        "price": "1,29"
+       
+      
+       
+      },
+
+
+       {
+        "nm": "Thickshake Vanille",
+        "cnt": "1",
+        "price": "4,49"
+       
+      
+       
+      }
+    
+    ],
+
+    "sub_total": {
+      "subtotal_price": "39,85"
+      
+    },
+
+    "total": {
+      "total_price": "42,63"
+
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 90,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

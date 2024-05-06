@@ -1,0 +1,74 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Prosciutto Supreme",
+        "cnt": "1",
+        "price": "11,88",
+        "etc": "28"
+
+      },
+
+       {
+        "nm": "GARLIC Individuell",
+        "cnt": "1",
+        "price": "12,46",
+        "etc": "28"
+
+      },
+
+      {
+        "nm": "Pan Caprese",
+        "cnt": "1",
+        "price": "2,00",
+        "etc": "28"
+
+      },
+      {
+        "nm": "Pizza-Br Käse",
+        "cnt": "1",
+        "price": "4,99"
+        
+
+      },
+      {
+        "nm": "Pizza-Br Knoblauch Käse",
+        "cnt": "1",
+        "price": "4,99"
+        
+
+      },
+      {
+        "nm": "Aioli Dip",
+        "cnt": "2",
+        "price": "2,58"
+        
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "36,34"
+      
+    },
+    "total": {
+      "total_price": "38,90"
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 5,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

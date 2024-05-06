@@ -1,0 +1,45 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Salami Supreme",
+        "cnt": "1",
+        "price": "12,49",
+		"etc": "28"
+      },
+	  
+	   {
+        "nm": "Chicken Box",
+        "cnt": "1",
+        "price": "10,99"
+	
+      }
+	  
+	  
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "21,94"
+      
+    },
+    "total": {
+      "total_price": "23,48"
+	
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 63,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

@@ -1,0 +1,49 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pan Dutchman",
+        "cnt": "1",
+        "price": "15,98",
+        "etc": "32"
+
+
+      },
+       {
+        "nm": "Pizza-Br Salami",
+        "cnt": "1",
+        "price": "4,99"
+       
+      },
+       {
+        "nm": "Knoblauch Dip",
+        "cnt": "1",
+        "price": "1,29"
+       
+      }
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "20,80"
+      
+    },
+    "total": {
+      "total_price": "22,26"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 79,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

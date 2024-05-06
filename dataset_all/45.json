@@ -1,0 +1,42 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Calzini Veggie",
+        "cnt": "1",
+        "price": "5,49"
+		
+      },
+	  
+	  {
+        "nm": "Cheese Bites",
+        "cnt": "1",
+        "price": "3,49"
+		
+      }
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "8,86"
+      
+    },
+    "total": {
+      "total_price": "9,48"
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 45,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

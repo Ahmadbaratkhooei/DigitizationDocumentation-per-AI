@@ -1,0 +1,49 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pan Waikiki",
+        "cnt": "1",
+        "price": "15,49",
+        "etc": "32"
+       
+      },
+
+
+       {
+        "nm": "Kräuterremoulade Dip",
+        "cnt": "1",
+        "price": "1,29"
+      
+       
+      }
+    
+    ],
+
+    "sub_total": {
+      "subtotal_price": "15,69"
+      
+    },
+
+    "total": {
+      "total_price": "16,78",
+      "creditcardprice": "16,78"
+
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 94,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

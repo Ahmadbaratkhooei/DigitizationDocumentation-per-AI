@@ -1,0 +1,38 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pan Lunch Broccoli Hollan",
+        "cnt": "2",
+        "price": "14,78",
+        "etc": "25"
+       
+      }
+    ],
+
+    "sub_total": {
+      "subtotal_price": "13,81"
+      
+    },
+
+    "total": {
+      "total_price": "14,78"
+
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 99,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

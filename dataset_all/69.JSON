@@ -1,0 +1,56 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pizza-Br Knoblauch Käse",
+        "cnt": "1",
+        "price": "4,99"
+
+
+      },
+       {
+        "nm": "Chicken Strippers",
+        "cnt": "1",
+        "price": "4,99"
+
+
+      },
+     {
+        "nm": "Aioli Dip",
+        "cnt": "1",
+        "price": "1,29"
+
+
+      },
+      {
+        "nm": "Wrap Classic Chicken",
+        "cnt": "1",
+        "price": "4,99"
+
+
+      }
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "15,19"
+      
+    },
+    "total": {
+      "total_price": "16,26",
+       "cashprice": "16,26"
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 69,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

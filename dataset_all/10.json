@@ -1,0 +1,47 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Funghi",
+        "cnt": "1",
+        "price": "6,85",
+		"etc":"25"
+        
+
+      },{
+        "nm": "250ml Red Bull",
+        "cnt": "1",
+        "price": "2,09"
+		
+        
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "8,37"
+      
+    },
+    "total": {
+      "total_price": "9,19"
+	  
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 10,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

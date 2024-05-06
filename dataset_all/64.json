@@ -1,0 +1,60 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Teriyaki Chicken",
+        "cnt": "1",
+        "price": "13,99",
+		"etc": "28"
+      },
+	  
+	   {
+        "nm": "Pizza-Br Käse",
+        "cnt": "1",
+        "price": "5,99"
+	
+      },
+	  
+	   {
+        "nm": "Fanta",
+        "cnt": "1",
+        "price": "3,29",
+		"etc": "1L"
+	
+      },
+	  
+	   {
+        "nm": "Kräuterremoulade Dip",
+        "cnt": "1",
+        "price": "1,29"
+	
+      }
+	  
+	  
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "22,85"
+      
+    },
+    "total": {
+      "total_price": "24,81"
+	
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 64,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

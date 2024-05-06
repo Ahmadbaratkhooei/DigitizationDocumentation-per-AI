@@ -1,0 +1,45 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Chicken Strippers",
+        "cnt": "1",
+        "price": "5,99"
+        
+
+      },
+      {
+        "nm": "Thickshake Cookies Cream",
+        "cnt": "1",
+        "price": "5,49"
+        
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "10,73"
+      
+    },
+    "total": {
+      "total_price": "11,48"
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 7,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

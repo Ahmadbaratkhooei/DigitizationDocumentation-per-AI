@@ -1,0 +1,35 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Salami",
+        "cnt": "1",
+        "price": "10,49",
+		"etc" : "25"
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "9,80"
+      
+    },
+    "total": {
+      "total_price": "10,49",
+	  "creditcardprice": "10,49"
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 36,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

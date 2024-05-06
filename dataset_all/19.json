@@ -1,0 +1,62 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "400ml Fuze Eistee Pfirsich",
+        "cnt": "1",
+        "price": "0,99"
+		
+		
+        
+
+      },
+	  {
+        "nm": "500ml Vio Bio Zitrone",
+        "cnt": "1",
+        "price": "2,99"
+		
+		
+        
+
+      },
+	  {
+        "nm": "Wrap Classic Chicken",
+        "cnt": "2",
+        "price": "9,98"
+		
+		
+        
+
+      }
+    
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "13,09"
+      
+    },
+    "total": {
+      "total_price": "14,48",
+	  "cashprice": "14,46"
+	  
+	  
+	  
+	  
+	  
+	  
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 19,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

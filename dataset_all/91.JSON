@@ -1,0 +1,60 @@
+{
+  "gt_parse": {
+    "menu": [
+      
+
+       {
+        "nm": "Pan Dutchman",
+        "cnt": "1",
+        "price": "12,49",
+        "etc": "28"
+       
+      },
+
+
+       {
+        "nm": "Pan Fitness Fan",
+        "cnt": "1",
+        "price": "11,49",
+        "etc": "25"
+      
+       
+      },
+
+
+       {
+        "nm": "Pan Funghi",
+        "cnt": "1",
+        "price": "0,00",
+        "etc": "25"
+      
+       
+      }
+    
+    ],
+
+    "sub_total": {
+      "subtotal_price": "22,41"
+      
+    },
+
+    "total": {
+      "total_price": "23,98",
+      "creditcardprice":"23,98"
+
+        }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 91,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

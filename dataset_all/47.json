@@ -1,0 +1,51 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Tuna",
+        "cnt": "1",
+        "price": "11,49",
+		"etc": "25"
+      },
+	  
+	  {
+        "nm": "Pan Lucca",
+        "cnt": "1",
+        "price": "10,99",
+		"etc": "25"
+      },
+	  
+	  {
+        "nm": "Pan Chicken Spargel",
+        "cnt": "1",
+        "price": "0,00",
+		"etc": "25"
+      }
+	  
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "21,01"
+      
+    },
+    "total": {
+      "total_price": "22,48"
+	  
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 47,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

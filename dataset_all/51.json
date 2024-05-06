@@ -1,0 +1,51 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Dutchman",
+        "cnt": "1",
+        "price": "12,99",
+		"etc": "32"
+      },
+	  
+	  {
+        "nm": "Pan Boston",
+        "cnt": "1",
+        "price": "1,09",
+		"etc": "28"
+      },
+	  
+	  {
+        "nm": "BBQ Honey Dip",
+        "cnt": "1",
+        "price": "1,29"
+		
+      }
+	  
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "14,37"
+      
+    },
+    "total": {
+      "total_price": "15,37",
+	  "creditcardprice": "15,37"
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 51,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

@@ -1,0 +1,64 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Pan Funghi",
+        "cnt": "1",
+        "price": "9,99",
+		"etc": "25"
+      },
+	  
+	   {
+        "nm": "Pan Chicken Spargel",
+        "cnt": "1",
+        "price": "0,00",
+		"etc": "28"
+      },
+	   {
+        "nm": "Sour Creme",
+        "cnt": "1",
+        "price": "1,29"
+		
+      },
+	  
+	   {
+        "nm": "Cheese Bites",
+        "cnt": "1",
+        "price": "4,99"
+      },
+	  
+	   {
+        "nm": "Jalapeno Cheese Bites",
+        "cnt": "1",
+        "price": "4,99"
+      }
+	  
+	  
+	  
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "19,87"
+      
+    },
+    "total": {
+      "total_price": "21,26"
+	 
+	 
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 53,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }

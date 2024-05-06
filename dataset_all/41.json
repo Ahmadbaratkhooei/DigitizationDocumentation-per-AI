@@ -1,0 +1,49 @@
+{
+  "gt_parse": {
+    "menu": [
+      {
+        "nm": "Penne Pasta Bolo",
+        "cnt": "1",
+        "price": "10,49"
+		
+      },
+	  
+	   {
+        "nm": "Pizza-Br Thunfisch Käse",
+        "cnt": "1",
+        "price": "5,99"
+      },
+	  
+	  
+	   {
+        "nm": "Knoblauch Dip",
+        "cnt": "1",
+        "price": "1,29"
+	
+      }
+	  
+    
+    ],
+    "sub_total": {
+      "subtotal_price": "16,61"
+      
+    },
+    "total": {
+      "total_price": "17,77",
+	  "creditcardprice": "17,77"
+    }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "split": "train",
+    "image_id": 41,
+    "image_size": {
+      "width": 1280,
+      "height": 855
+    }
+  },
+  "valid_line": [
+  ],
+  "ROI":{
+  }
+  }
